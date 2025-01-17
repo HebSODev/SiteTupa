@@ -1,0 +1,10 @@
+biblioteca_api/
+├── routers/
+│   └── livro_routes.py
+├── models/
+│   └── livro_model.py
+├── schemas/
+│   └── livro_schema.py
+├── utilities/
+│   └── validadores.py
+└── main.py 
